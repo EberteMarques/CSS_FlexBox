@@ -1,0 +1,96 @@
+.page-wrapper{
+    position: relative;
+    width: 80%;
+    max-width: 1280px; 
+    margin: auto;
+}
+
+.explanation{
+width: 60%;
+margin-right: 35%;
+border-right: #1f295c solid 1px;
+padding-right: 2%;
+
+}
+
+#design-selection{
+    position: absolute;
+    top: 560px;
+    left: 62%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+
+#zen-intro{
+    height: 550px;
+}
+
+#design-archives {
+    display: none;
+
+}
+#zen-intro header{
+    background-color: darkslategrey;
+    color: antiquewhite;
+}
+
+#zen-intro header h1, h2 {
+    display: inline-block;
+}
+#zen-intro header h1{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+aside ul {
+    list-style-type: none;
+}
+ aside ul li {
+    margin: 1em;
+    text-align: center;
+ }
+ .main footer {
+    margin: 4%;
+
+ }
+
+ .main footer a {
+    border: solid darkslategrey;
+    padding: 0.5rem;
+    display: inline-block;
+
+ }
+
+
+html {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+text-indent: 1pc;
+}
+h1, h2, h3{
+    text-align: center;
+}
+h1{
+    font-size: 1.8rem;
+}
+h2{
+    font-size: 1.4rem;
+}
+h3{
+    font-size: 1.2rem;
+}
+
+.summary{
+    text-align: right;
+}
+.main p {
+    line-height: 1.5;
+}
+/*colocar abreviaturas em letras minúsculas*/
+abbr{
+    font-variant:small-caps ;
+}
+
